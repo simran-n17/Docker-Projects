@@ -25,6 +25,6 @@ Each project is **containerized, well-documented, and includes step-by-step depl
 | 6️⃣ **FullStack Application featuring PostgreSQL Database in Docker** | Deploy a Streamlit app connected to PostgreSQL using Docker | [GitHub Link](https://github.com/simran-n17/FullStack-Docker) |
 | 7️⃣ **ML Monitoring Dashboard** | Monitor ML models using Streamlit and Evidently AI | [GitHub Link](https://github.com/aditiBansal-7/ml-monitoring-dashboard) |
 | 8️⃣ **Minikube & Kubectl Lab** | Set up a local Kubernetes cluster and deploy apps | [GitHub Link](https://github.com/simran-n17/Minikube-Kubectl) |
-| 9️⃣ **ML Model Deployment using Docker & EC2** | Deploy a Dockerized ML Model using Streamlit on AWS EC2 | [GitHub Link](https://github.com/aditiBansal-7/Docker_ec2.git) |
+| 9️⃣ **ML Model Deployment using Docker & EC2** | Deploy a Dockerized ML Model using Streamlit on AWS EC2 | [GitHub Link](https://github.com/simran-n17/Deploying-Streamlit-app-in-Docker-on-AWS-EC2) |
 
 ---
