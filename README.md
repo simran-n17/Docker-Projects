@@ -30,4 +30,5 @@ Each project is **containerized, well-documented, and includes step-by-step depl
 | 1️⃣1️⃣ **Microservices Orchestration with Minikube & Kubernetes** | Deploy and manage microservices efficiently using Kubernetes and Minikube. | [GitHub Link](https://github.com/simran-n17/Microservices-Orchestration-with-Minikube-and-Kubernetes) |
 | 1️⃣2️⃣ **Microservices Architecture Using Docker Swarm** | Build and deploy a scalable microservices-based application using Docker Swarm.  | [GitHub Link](https://github.com/simran-n17/Microservices-Architecture-using-Docker-Swarm) |
 | 1️⃣3️⃣ **Bakery Foundation Example on Windows** |  Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9 | [GitHub Link](https://github.com/simran-n17/Bakery-Foundation-Example-on-Windows) |
+| 1️⃣3️⃣ *Final Docker Project* |  Project including all factors | [GitHub Link](https://github.com/simran-n17/Final-Docker-Project) |
 ---
