@@ -27,7 +27,7 @@ Each project is **containerized, well-documented, and includes step-by-step depl
 | 8️⃣ **(Evidently AI Sets Sail in Docker)ML Monitoring Dashboard** | un Evidently AI inside a Docker container to analyze ML model performance and detect data drift. | [GitHub Link](https://github.com/simran-n17/Evidently-AI-Sets-Sail-in-Docker) |
 | 9️⃣ **Minikube & Kubectl Lab** | Set up a local Kubernetes cluster and deploy apps | [GitHub Link](https://github.com/simran-n17/Minikube-Kubectl) |
 | 🔟 **ML Model Deployment using Docker & EC2** | Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting | [GitHub Link](https://github.com/simran-n17/Deploying-Streamlit-app-in-Docker-on-AWS-EC2) |
-| (1️⃣1️⃣) **ML Model Deployment using Docker & EC2** | Deploy and manage microservices efficiently using Kubernetes and Minikube. | [GitHub Link](https://github.com/simran-n17/Deploying-Streamlit-app-in-Docker-on-AWS-EC2) |
+| 1️⃣1️⃣ **Microservices Orchestration with Minikube & Kubernetes** | Deploy and manage microservices efficiently using Kubernetes and Minikube. | [GitHub Link](https://github.com/simran-n17/Microservices-Orchestration-with-Minikube-and-Kubernetes) |
 | 1️⃣2️⃣ **Microservices Architecture Using Docker Swarm** | Build and deploy a scalable microservices-based application using Docker Swarm.  | [GitHub Link](https://github.com/simran-n17/Microservices-Architecture-using-Docker-Swarm) |
 | 1️⃣3️⃣ **Bakery Foundation Example on Windows** |  Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9 | [GitHub Link](https://github.com/simran-n17/Bakery-Foundation-Example-on-Windows) |
 ---
