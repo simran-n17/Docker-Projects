@@ -17,8 +17,8 @@ Each project is **containerized, well-documented, and includes step-by-step depl
 
 | 🔹 Project | 📌 Description | 🔗 Repo Link |
 |------------|--------------|--------------|
-| 1️⃣ **Docker Basics** | Learn fundamental Docker commands and concepts | [GitHub Link](https://github.com/simran-n17/Docker-Basics) |
-| 2️⃣ **Deploying Streamlit App using Docker(ML Model Using Docker)** | Deploy an ML model for mushroom classification using Docker | [GitHub Link](https://github.com/simran-n17/Streamlit-Docker) |
+| 1️⃣ **Docker Basics** | Learn fundamental Docker commands and concepts | [GitHub Link](https://github.com/simran-n17/Docker-Streamlit) |
+| 2️⃣ **Mushroom Classificatio-Deploying Streamlit App using Docker** | Deploy an ML model for mushroom classification using Docker | [GitHub Link](https://github.com/simran-n17/Streamlit-Docker) |
 | 3️⃣ **Titanic Survival Predictor: Containerized Streamlit App** | Deploy a Machine Learning-powered Titanic survival prediction app using Streamlit and Docker. | [GitHub Link](https://github.com/simran-n17/Titanic-Survival-Predictor---Containerized-Streamlit-App) |
 | 4️⃣ **MySQL using Docker** | Set up and run MySQL inside a Docker container | [GitHub Link](https://github.com/simran-n17/Docker-MySql) |
 | 5️⃣ **Docker Volume Persistence** | Persist data across containers using Docker volumes | [GitHub Link](https://github.com/simran-n17/Docker-Volume) |
