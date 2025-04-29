@@ -13,15 +13,15 @@ End-to-end containerized ML workflow for mushroom classification
 
 ### 🚢 **2. Titanic Survival Predictor: Containerized Streamlit App**
 ML-powered survival prediction with Docker deployment  
-[![Open Project](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github)](https://github.com/simran-n17/Titanic-Survival-Predictor---Containerized-Streamlit-App)
+[![Open Project](https://img.shields.io/badge/GitHub-View)](https://github.com/simran-n17/Titanic-Survival-Predictor---Containerized-Streamlit-App)
 
 ### 🌀 **3. Streamlit Spiral Generator**
 Interactive spiral visualization app in Docker  
-[![Open Project](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github)](https://github.com/simran-n17/Streamlit-Spiral-Generator)
+[![Open Project](https://img.shields.io/badge/GitHub-View)](https://github.com/simran-n17/Streamlit-Spiral-Generator)
 
 ### 🔍 **4. Final Docker Project: Unravel Interpret ML model using SHAP**
 Comprehensive ML interpretation with SHAP in Docker  
-[![Open Project](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github)](https://github.com/simran-n17/Unravel-Interpret-ML-model-using-SHAP)
+[![Open Project](https://img.shields.io/badge/GitHub-View)](https://github.com/simran-n17/Unravel-Interpret-ML-model-using-SHAP)
 
 ---
 
