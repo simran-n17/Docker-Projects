@@ -9,7 +9,7 @@ Each project is **containerized, well-documented, and includes step-by-step depl
 
 ### 🍄 **1. Mushroom Classification-Deploying Streamlit App using Docker**
 End-to-end containerized ML workflow for mushroom classification  
-[![Open Project](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github)](https://github.com/simran-n17/Streamlit-Docker)
+[![Open Project](https://img.shields.io/badge/GitHub-View)](https://github.com/simran-n17/Streamlit-Docker)
 
 ### 🚢 **2. Titanic Survival Predictor: Containerized Streamlit App**
 ML-powered survival prediction with Docker deployment  
